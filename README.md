@@ -14,7 +14,9 @@ Abra o navegador e acesse http://localhost:3000
 
 # 💻 Exemplo de uso
 Digite seu login: admin
+
 Digite sua senha: 123456
+
 Você está logado admin, parabéns
 
 # 📁 Estrutura básica do projeto
